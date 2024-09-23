@@ -1,0 +1,31 @@
+body {
+    background-color: #E9EFEC;
+    height: 100vh;
+}
+
+header {
+    background-color: #6A9C89;
+    color: white;
+}
+
+main {
+    width: 75%;
+    margin: auto;
+}
+
+.input-group-text {
+    background-color: #C4DAD2;
+}
+
+.card-header {
+    background-color: #C4DAD2;
+}
+
+.card-body {
+    font-size: 50px;
+}
+
+.btn {
+    background-color: #16423C;
+    color: white;
+}
